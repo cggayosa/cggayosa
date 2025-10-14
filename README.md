@@ -27,5 +27,3 @@
         <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="45" height="45"/>
     </a>&nbsp;
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFF333&height=120&section=footer" alt="footer"/>
