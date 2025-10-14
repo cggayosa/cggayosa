@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF333&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=35&duration=3000&pause=250&color=E1D84C&width=435&lines=👋+Hi%2C+I'm+Caitlin!;💻+Student+Developer;🎨+Digital+Illustrator;🐯+💛;" alt="Student"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=30&duration=3000&pause=250&color=E1D84C&width=435&lines=👋+Hi%2C+I'm+Caitlin!;💻+Student+Developer;🎨+Digital+Illustrator;🐯+💛;" alt="Student"/>
 </a>
 
 
