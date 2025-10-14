@@ -17,7 +17,7 @@
 
 ### Get In Touch:
 <div>
-    <a href="https://www.linkedin.com/in/cggayosa/">
+    <a href="https://www.linkedin.com/in/caitlin-gayosa/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
     </a>&#8201;
     <a href="mailto:cggayosa@gmail.com">
