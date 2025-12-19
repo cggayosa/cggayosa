@@ -6,10 +6,10 @@
 
 
 ### Main Skills:
-[![My Skills](https://skillicons.dev/icons?i=java,py,cs,html,css,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs,mysql,php,html,css,figma,ps)](https://skillicons.dev)
 
 ### Currently Studying:
-[![Learning](https://skillicons.dev/icons?i=js,react,mysql,php,unity,github,git)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=js,react,unity,github,git)](https://skillicons.dev)
 
 <p align="center">
   <em>Focused on front-end, but starting to learn adjacent technologies.</em>
