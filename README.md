@@ -12,10 +12,10 @@
 [![Web Technologies](https://skillicons.dev/icons?i=html,css,js,react,php,vercel)](https://skillicons.dev)
 
 ### Design & Game Dev:
-[![Design & Game Dev](https://skillicons.dev/icons?i=figma,unity,godot,blender,ps)](https://skillicons.dev)
+[![Design & Game Dev](https://skillicons.dev/icons?i=figma,unity,godot,blender)](https://skillicons.dev)
 
 ### Tools & Databases:
-[![Tools & Databases](https://skillicons.dev/icons?i=vscode,mysql,docker,github)](https://skillicons.dev)
+[![Tools & Databases](https://skillicons.dev/icons?i=vscode,mysql,docker,github,ps)](https://skillicons.dev)
 
 <p align="center">
   <em>Flexible developer currently building front-end solutions for my organization, with strong fundamentals in core programming and object-oriented languages.</em>
