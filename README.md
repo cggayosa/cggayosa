@@ -1,18 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF333&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=30&duration=3000&pause=250&color=E1D84C&width=435&lines=👋+Hi%2C+I'm+Caitlin!;💻+Student+Developer;🎨+Digital+Illustrator;🐯+💛;" alt="Student"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=30&duration=3000&pause=250&color=E1D84C&width=435&lines=👋+Hi%2C+I'm+Caitlin!;💻+Student+Developer;🐯+💛;" alt="Student"/>
 </a>
 
 
-### Main Skills:
-[![My Skills](https://skillicons.dev/icons?i=java,py,cs,mysql,php,html,css,figma,ps)](https://skillicons.dev)
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=java,py,cs)](https://skillicons.dev)
 
-### Currently Studying:
-[![Learning](https://skillicons.dev/icons?i=js,react,unity,github,git)](https://skillicons.dev)
+### Web Technologies:
+[![Web Technologies](https://skillicons.dev/icons?i=html,css,js,react,php,vercel)](https://skillicons.dev)
+
+### Design & Game Dev:
+[![Design & Game Dev](https://skillicons.dev/icons?i=figma,unity,godot,blender,ps)](https://skillicons.dev)
+
+### Tools & Databases:
+[![Tools & Databases](https://skillicons.dev/icons?i=vscode,mysql,docker,github)](https://skillicons.dev)
 
 <p align="center">
-  <em>Focused on front-end, but starting to learn adjacent technologies.</em>
+  <em>Flexible developer currently building front-end solutions for my organization, with strong fundamentals in core programming and object-oriented languages.</em>
 </p>
 
 ### Get In Touch:
