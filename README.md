@@ -12,7 +12,7 @@
 [![Web Technologies](https://skillicons.dev/icons?i=html,css,js,react,php,vercel)](https://skillicons.dev)
 
 ### Design & Game Dev:
-[![Design & Game Dev](https://skillicons.dev/icons?i=figma,ps,unity,godot,blender)](https://skillicons.dev)
+[![Design & Game Dev](https://skillicons.dev/icons?i=figma,ps,unity,blender)](https://skillicons.dev)
 
 ### Tools & Databases:
 [![Tools & Databases](https://skillicons.dev/icons?i=vscode,mysql,docker,github)](https://skillicons.dev)
