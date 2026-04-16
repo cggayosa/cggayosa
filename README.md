@@ -6,7 +6,7 @@
 
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=java,py,cs)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,cs)](https://skillicons.dev)
 
 ### Web Technologies:
 [![Web Technologies](https://skillicons.dev/icons?i=html,css,js,react,php,vercel)](https://skillicons.dev)
