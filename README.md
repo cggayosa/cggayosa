@@ -15,7 +15,7 @@
 [![Design & Game Dev](https://skillicons.dev/icons?i=figma,ps,unity,blender)](https://skillicons.dev)
 
 ### Tools & Databases:
-[![Tools & Databases](https://skillicons.dev/icons?i=vscode,mysql,docker,github)](https://skillicons.dev)
+[![Tools & Databases](https://skillicons.dev/icons?i=vscode,mysql,docker,github,git)](https://skillicons.dev)
 
 <p align="center">
   <em>Flexible developer currently building front-end solutions for my organization, with strong fundamentals in core programming and object-oriented languages.</em>
