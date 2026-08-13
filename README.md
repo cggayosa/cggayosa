@@ -14,7 +14,7 @@
 🌱 &nbsp;I'm currently learning **Advanced Python**  
 👯 &nbsp;I'm looking to collaborate on **Software Engineering**  
 💬 &nbsp;Ask me about **Machine Learning algorithms**  
-⚡ &nbsp;Fun fact: **Initially pursued Animation before Comp Sci for college**
+⚡ &nbsp;Fun fact: **Initially pursued Animation before Computer Science for college**
 
 ### 🛠️ Tech Stack
 
